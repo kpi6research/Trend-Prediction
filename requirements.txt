@@ -1,0 +1,5 @@
+ipynb
+pandas
+scipy
+plotly
+nltk
